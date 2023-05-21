@@ -1,4 +1,4 @@
-module github.com/nwidger/jsoncolor
+module github.com/sankalp-khare/jsoncolor
 
 go 1.13
 
